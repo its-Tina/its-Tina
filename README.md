@@ -7,7 +7,7 @@
 <br/><br/>
 
 <div align="left" style="padding-left: 10px;">
-<img src="profile-photo.jpg" width="120" style="border-radius: 50%; border: 3px solid #00CED1;"/>
+<img src="profile-photo.jpg.png" width="120" style="border-radius: 50%; border: 3px solid #00CED1;"/>
 </div>
 
 <div align="left" style="padding-left: 10px;">
