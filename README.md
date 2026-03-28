@@ -1,25 +1,28 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
 <tr>
 
 <!-- LEFT COLUMN with background colour -->
-<td width="38%" valign="top" bgcolor="#1434A4" style="border-radius: 12px; padding: 20px;">
+<td width="38%" valign="top" bgcolor="#1434A4" style="border-radius: 12px; padding: 20px; border: none;">
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=00CED1&center=true&vCenter=true&width=280&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+<br/><br/>
+
+<div align="left" style="padding-left: 10px;">
+<img src="profile-photo.jpg" width="120" style="border-radius: 50%; border: 3px solid #00CED1;"/>
 </div>
 
-<br/>
-
-### <span style="color:#00CED1">👩🏾‍💼 About Me</span>
+<div align="left" style="padding-left: 10px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=00CED1&center=false&vCenter=true&width=280&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+</div>
+<h3><span style="color:#00CED1">👩🏾‍💼 About Me</span></h3>
 
 I am a **Senior Business Analyst** with over 5 years of experience helping organisations turn complex problems into clear, workable outcomes. My work sits at the intersection of people, data and systems.
 
-- 🔭 Currently at **Feros Care**, Brisbane
-- 🌱 Building my **SQL and data analysis** skills
-- 🤖 Passionate about **AI in business**
-- 🤝 Open to **data and BA collaborations**
-- 💬 Ask me about **Agile, UAT, BPMN**
-- 📫 **Ernestina.Okyere@outlook.com**
+- 💼 Currently at **Feros Care**, Brisbane
+- 📊 Building my **SQL and data analysis** skills
+- 🧠 Passionate about **AI in business**
+- 🌍 Open to **data and BA collaborations**
+- 📌 Ask me about **Agile, UAT, BPMN**
+- 📩 **Ernestina.Okyere@outlook.com**
 
 <br/>
 
@@ -52,10 +55,10 @@ QX Logistics · `Jan 2020 – Apr 2023`
 </td>
 
 <!-- SPACER -->
-<td width="4%"></td>
+<td width="4%" style="border: none;"></td>
 
 <!-- RIGHT COLUMN -->
-<td width="58%" valign="top">
+<td width="58%" valign="top" style="border: none;">
 
 ### 🛠️ Skills & Tools
 
