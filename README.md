@@ -92,6 +92,38 @@ QX Logistics · `Jan 2020 – Apr 2023`
 
 <br/>
 
+<table width="90%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#1434A4" style="border-radius: 12px; padding: 16px; border: 2px solid #00CED1;">
+
+<div align="center">
+<h3><span style="color:#00CED1">📁 Featured Project</span></h3>
+<h4><span style="color:#ffffff">💊 Pharma Sales Rep Performance</span><br/><span style="color:#ffffff">and Revenue Analysis</span></h4>
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-00CED1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-1A56DB?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-00CED1?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
+</p>
+
+<p><span style="color:#A8E6F0">End-to-end analysis of a pharma sales team covering rep output, product performance and regional revenue trends, delivered to both technical and non-technical stakeholders.</span></p>
+
+<p>🏆 <strong><span style="color:#00CED1">Top Region:</span></strong> <span style="color:#ffffff">Greater Accra, ~85% of total revenue</span></p>
+<p>💊 <strong><span style="color:#00CED1">Top Product:</span></strong> <span style="color:#ffffff">Zentral Inj across all regions</span></p>
+<p>🏪 <strong><span style="color:#00CED1">Top Channel:</span></strong> <span style="color:#ffffff">Wholesale pharmacies</span></p>
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View%20Project-00CED1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-Tina/its-Tina1)
+
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=its-Tina&show_icons=true&title_color=1434A4&icon_color=00CED1&text_color=1A56DB&bg_color=ffffff&border_color=00CED1&border_radius=10" width="100%"/>
@@ -101,18 +133,6 @@ QX Logistics · `Jan 2020 – Apr 2023`
 </td>
 </tr>
 </table>
-
-### 📁 Featured Project
-
-| | 💊 Pharma Sales Rep Performance and Revenue Analysis |
-|---|---|
-| **Tools** | SQL · Excel · PowerPoint |
-| **Overview** | End-to-end analysis of a pharma sales team covering rep output, product performance and regional revenue trends, delivered to both technical and non-technical stakeholders |
-| 🏆 Top Region | Greater Accra, ~85% of total revenue |
-| 💊 Top Product | Zentral Inj across all regions |
-| 🏪 Top Channel | Wholesale pharmacies |
-
-[![View Project](https://img.shields.io/badge/View%20Project-1434A4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-Tina/its-Tina1)
 
 <div align="center">
 
