@@ -2,44 +2,13 @@
 <tr>
 <td bgcolor="#D6EEF8" style="border-radius: 16px; border: none;">
 
-<div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=false&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+<div align="center">
+<h1>👋 Hi there, I am Ernestina Okyere</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=true&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
 </div>
 
-<br/>
-
-<h3>👩🏾‍💼 About Me</h3>
-
-- 💼 Currently at **Feros Care**, Brisbane
-- 📊 Building my **SQL and data analysis** skills
-- 🧠 Passionate about **AI in business**
-- 🌍 Open to **data and BA collaborations**
-- 📌 Ask me about **Agile, UAT, BPMN**
-- 📩 **Ernestina.Okyere@outlook.com**
-
-<br/>
-
-<h3>🤝 Connect with Me</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestina-okyere-293959364/)
-[![Email](https://img.shields.io/badge/Outlook-1434A4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Ernestina.Okyere@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-Tina)
-
-<br/>
-
-<h3>💼 Experience</h3>
-
-🔵 **Senior IT Business Analyst**, Feros Care · `Sep 2025 – Present`
-
-🔵 **Senior Business Analyst**, Jacinth Solutions · `May 2023 – Aug 2025`
-
-🔵 **Business Analyst**, QX Logistics · `Jan 2020 – Apr 2023`
-
-<br/>
-
-<h3>🎓 Education</h3>
-
-**BA**, KNUST, Ghana · `2016 – 2020`
+I am a **Senior Business Analyst** with over 5 years of experience helping organisations turn complex problems into clear, workable outcomes. I currently work at **Feros Care** in Brisbane, where I sit at the intersection of people, data and systems. Outside of my day job I am actively building my SQL and data analysis skills and exploring how AI can be applied to real business problems. I am always open to interesting conversations, collaborations and opportunities, feel free to reach out!
 
 <br/>
 
@@ -72,6 +41,36 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-1A56DB?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1434A4?style=flat-square&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Dashboard%20Design-00CED1?style=flat-square&logoColor=white)
+
+<br/>
+
+<h3>🤝 Connect with Me</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestina-okyere-293959364/)
+[![Email](https://img.shields.io/badge/Outlook-1434A4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Ernestina.Okyere@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-Tina)
+
+<br/>
+
+<h3>💼 Experience</h3>
+
+🔵 **Senior IT Business Analyst**, Feros Care · `Sep 2025 – Present`
+
+🔵 **Senior Business Analyst**, Jacinth Solutions · `May 2023 – Aug 2025`
+
+🔵 **Business Analyst**, QX Logistics · `Jan 2020 – Apr 2023`
+
+<br/>
+
+<h3>⚡ Fun Fact</h3>
+
+<p><i><b>🕺 I am amazing at Karaoke 🎤💃🕺🎶</b></i></p>
+
+<br/>
+
+<h3>🎓 Education</h3>
+
+**Bachelor of Arts**, KNUST, Ghana · `2016 – 2020`
 
 <br/>
 
