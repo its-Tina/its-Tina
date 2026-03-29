@@ -1,21 +1,10 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="16" frame="void" rules="none">
-<tr>
-
-<!-- LEFT COLUMN -->
-<td width="36%" valign="top" bgcolor="#1434A4" style="border-radius: 12px; padding: 16px; border: none;">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=true&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+</div>
 
 <br/>
 
-<div align="left" style="padding-left: 8px;">
-<img src="profile-photo.jpg.png" width="110" style="border-radius: 50%; border: 3px solid #00CED1;"/>
-</div>
-
-<div align="left" style="padding-left: 8px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=16&pause=1000&color=00CED1&center=false&vCenter=true&width=240&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
-</div>
-<h3><span style="color:#00CED1">👩🏾‍💼 About Me</span></h3>
-
-I am a **Senior Business Analyst** with over 5 years of experience helping organisations turn complex problems into clear, workable outcomes. My work sits at the intersection of people, data and systems.
+<h3>👩🏾‍💼 About Me</h3>
 
 - 💼 Currently at **Feros Care**, Brisbane
 - 📊 Building my **SQL and data analysis** skills
@@ -26,7 +15,7 @@ I am a **Senior Business Analyst** with over 5 years of experience helping organ
 
 <br/>
 
-### 🤝 Connect with Me
+<h3>🤝 Connect with Me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestina-okyere-293959364/)
 [![Email](https://img.shields.io/badge/Outlook-1434A4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Ernestina.Okyere@outlook.com)
@@ -34,33 +23,23 @@ I am a **Senior Business Analyst** with over 5 years of experience helping organ
 
 <br/>
 
-### 🎓 Education
+<h3>💼 Experience</h3>
 
-**BA**, KNUST, Ghana
-`2016 – 2020`
+🔵 **Senior IT Business Analyst** — Feros Care · `Sep 2025 – Present`
+
+🔵 **Senior Business Analyst** — Jacinth Solutions · `May 2023 – Aug 2025`
+
+🔵 **Business Analyst** — QX Logistics · `Jan 2020 – Apr 2023`
 
 <br/>
 
-### 💼 Experience
+<h3>🎓 Education</h3>
 
-🔵 **Senior IT Business Analyst**
-Feros Care · `Sep 2025 – Present`
+**BA**, KNUST, Ghana · `2016 – 2020`
 
-🔵 **Senior Business Analyst**
-Jacinth Solutions · `May 2023 – Aug 2025`
+<br/>
 
-🔵 **Business Analyst**
-QX Logistics · `Jan 2020 – Apr 2023`
-
-</td>
-
-<!-- SPACER -->
-<td width="3%" style="border: none;"></td>
-
-<!-- RIGHT COLUMN -->
-<td width="61%" valign="top" style="border: none; background-color: #CBE4F9; border-radius: 12px; padding: 16px;">
-
-### 🛠️ Skills & Tools
+<h3>🛠️ Skills & Tools</h3>
 
 **Business Analysis**
 
@@ -95,7 +74,7 @@ QX Logistics · `Jan 2020 – Apr 2023`
 <div style="background-color:#1434A4; border-radius:12px; padding:14px; border:2px solid #00CED1;">
 
 <h3><span style="color:#00CED1">📁 Featured Project</span></h3>
-<h4><span style="color:#ffffff">💊 Pharma Sales Rep Performance<br/>and Revenue Analysis</span></h4>
+<h4><span style="color:#ffffff">💊 Pharma Sales Rep Performance and Revenue Analysis</span></h4>
 
 <p>
 <img src="https://img.shields.io/badge/SQL-00CED1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -113,15 +92,15 @@ QX Logistics · `Jan 2020 – Apr 2023`
 
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=its-Tina&show_icons=true&title_color=1434A4&icon_color=00CED1&text_color=1A56DB&bg_color=ffffff&border_color=00CED1&border_radius=10" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-Tina&theme=&ring=1434A4&fire=00CED1&currStreakLabel=1A56DB&border=00CED1&border_radius=10" width="100%"/>
+
+<br/>
 
 <div align="center">
 
