@@ -1,14 +1,17 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
 <tr>
-<td bgcolor="#D6EEF8" style="border-radius: 16px; border: none;">
+<td bgcolor="#D6EEF8" style="border-radius: 16px; border: 3px solid #ffffff;">
 
-<div align="center">
+<div align="left">
 <h1>👋 Hi there, I am Ernestina Okyere</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=true&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=false&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
 </div>
 
+<div align="justify">
+
 I am a **Senior Business Analyst** with over 5 years of experience helping organisations turn complex problems into clear, workable outcomes. I currently work at **Feros Care** in Brisbane, where I sit at the intersection of people, data and systems. Outside of my day job I am actively building my SQL and data analysis skills and exploring how AI can be applied to real business problems. I am always open to interesting conversations, collaborations and opportunities, feel free to reach out!
+
+</div>
 
 <br/>
 
