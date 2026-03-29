@@ -1,5 +1,9 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=true&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
+<table width="100%" border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
+<tr>
+<td bgcolor="#D6EEF8" style="border-radius: 16px; border: none;">
+
+<div align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=1434A4&center=false&vCenter=true&width=500&lines=Senior+Business+Analyst;AI+Enthusiast;Product+Owner+%7C+Scrum+Master;Brisbane%2C+Australia" />
 </div>
 
 <br/>
@@ -25,11 +29,11 @@
 
 <h3>💼 Experience</h3>
 
-🔵 **Senior IT Business Analyst** — Feros Care · `Sep 2025 – Present`
+🔵 **Senior IT Business Analyst**, Feros Care · `Sep 2025 – Present`
 
-🔵 **Senior Business Analyst** — Jacinth Solutions · `May 2023 – Aug 2025`
+🔵 **Senior Business Analyst**, Jacinth Solutions · `May 2023 – Aug 2025`
 
-🔵 **Business Analyst** — QX Logistics · `Jan 2020 – Apr 2023`
+🔵 **Business Analyst**, QX Logistics · `Jan 2020 – Apr 2023`
 
 <br/>
 
@@ -107,5 +111,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=its-Tina&style=flat-square&color=00CED1&label=Profile+Views)
 
 </div>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1434A4,100:00CED1&height=120&section=footer" width="100%"/>
